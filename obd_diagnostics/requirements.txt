@@ -1,0 +1,8 @@
+obd
+openai>=1.0.0
+customtkinter
+streamlit
+pandas
+plotly
+pyinstaller
+pillow
